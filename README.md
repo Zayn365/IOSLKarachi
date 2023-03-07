@@ -3,7 +3,7 @@
 This website was created for a client using ReactJS, React-Router, Bootstrap, and SwiperJS. It offers a fast, efficient, and responsive user experience, with a sleek design and easy navigation.
 
 ## Video Demo
- [![Website Demo Video](./screenshots/iosl-demo.png)](./videos/iosl-demo.mp4)
+ [![Website Demo Video](./screenshots/iosl-demo.png)](./screenshots/iosl-demo.mp4)
 
 ## 💻 Technologies
 
